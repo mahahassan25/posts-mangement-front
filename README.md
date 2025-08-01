@@ -1,5 +1,25 @@
-# Vue 3 + Vite
+# 🚀posts mangement
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a simple front-end project that includes two separate login systems: one for administrators and one for regular users. After logging in, both users and admins can create and view all posts. However, only the admin has the ability to edit or delete any post, while regular users can only edit or delete their own posts.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🖥️ Tech Stack
+
+- Framework: Vue.js.
+- UI Library: Vuetify 
+- Build Tools: Vite 
+- Version Control: Git
+
+## 🛠️ Installation and Setup Instructions
+
+ **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+```
+
+ **install dependencies**
+- npm install
+
+ **run the project**
+ - npm run dev
+
